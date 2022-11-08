@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/drawable/bg_button.xml" value="0.1625" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1625" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/activity_kakao_map.xml" value="0.3130630630630631" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/activity_main.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/custom_callout_balloon.xml" value="0.31666666666666665" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/fragment_pager1.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/fragment_pager2.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/recycler_item.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/selct_item.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/layout/selcted_item.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/mipmap-anydpi-v26/ic_icon2.xml" value="0.167" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/mipmap-anydpi-v26/ic_icon2_round.xml" value="0.167" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/mipmap-anydpi-v26/ic_icon_playStore.xml" value="0.1925" />
+        <entry key="..\:/Android/Projects/AnimalMedicalService/app/src/main/res/mipmap-anydpi-v26/ic_icon_playStore_round.xml" value="0.1925" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/drawable-v24/ic_baseline_arrow_drop_down_24.xml" value="0.159" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/drawable/bg_button.xml" value="0.159" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/layout/fragment.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/layout/fragment_pager1.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/layout/fragment_pager2.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/layout/recycler_item.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/layout/selct_item.xml" value="0.3088888888888889" />
+        <entry key="..\:/Android/Projects/EmergencyMedicalService/app/src/main/res/layout/selcted_item.xml" value="0.3088888888888889" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/drawable/bg_button.xml" value="0.2405" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/layout/activity_main.xml" value="0.47162162162162163" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/layout/fragment_pager1.xml" value="0.4048888888888889" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/layout/fragment_pager2.xml" value="0.4048888888888889" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/layout/recycler_item.xml" value="0.40185185185185185" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/layout/selct_item.xml" value="0.47162162162162163" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/layout/selcted_item.xml" value="0.47162162162162163" />
+        <entry key="..\:/android/EmergencyMedicalServiceEx/app/src/main/res/xml/network_config.xml" value="0.4752252252252252" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
