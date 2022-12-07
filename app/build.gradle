@@ -1,5 +1,6 @@
 plugins {
     id 'com.android.application'
+
 }
 
 android {
@@ -9,16 +10,15 @@ android {
         applicationId "com.dabee.emergencymedicalservice"
         minSdk 23
         targetSdk 32
-        versionCode 17
-        versionName "1.7"
+        versionCode 22
+        versionName "2.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
         release {
-            minifyEnabled true
-            shrinkResources true
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }

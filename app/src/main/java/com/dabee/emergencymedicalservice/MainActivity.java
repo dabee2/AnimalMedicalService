@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+
         // 키 해시값을 얻어오는 기능을 가진 클래스에게 디버그용 키해시값 얻어오기
         String keyHash= Utility.getKeyHash(this);
         Log.d("TAG1",keyHash);
